@@ -24,7 +24,7 @@
     </nav>
     <section id="top">
         <h2>トップページ</h2>
-        <img src="image.jpg" alt="トップページの画像">
+        <img src="image_123650291 (2)" alt="トップページの画像">
         <p>ここにトップページの内容を追加します。</p>
     </section>
     <section id="learn-coaching">
